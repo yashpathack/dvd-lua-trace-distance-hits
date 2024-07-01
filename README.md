@@ -20,7 +20,7 @@ Make sure you have Love2D installed on your system. You can download it from [Lo
 
 2. Run the game:
    ```bash
-   love /path/to/dvd-logo-screensaver
+   love /path/to/folder
    ```
 
 ## Usage
@@ -34,13 +34,6 @@ Make sure you have Love2D installed on your system. You can download it from [Lo
 - [Love2D](https://love2d.org/) - The framework used
 - Lua - The programming language
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
-
-## Authors
-
-- Your Name - Initial work
 
 ## License
 
