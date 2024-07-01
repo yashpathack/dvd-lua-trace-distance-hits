@@ -1,4 +1,4 @@
-# DVD Logo Screensaver Simulation
+# dvd-lua-trace-distance-hits
 
 This project simulates the classic DVD logo screensaver using Love2D framework. The logo bounces around the screen, leaving a trail of its path and playing a collision sound when it hits the screen edges.
 
