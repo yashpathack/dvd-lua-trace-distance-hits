@@ -17,7 +17,6 @@ Make sure you have Love2D installed on your system. You can download it from [Lo
    ```bash
    git clone https://github.com/yashpathack/dvd-lua-trace-distance-hits.git
    ```
-
 2. Run the game:
    ```bash
    love /path/to/folder
@@ -39,5 +38,3 @@ Make sure you have Love2D installed on your system. You can download it from [Lo
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 ```
-
-Feel free to customize the sections as per your preferences and project details!
